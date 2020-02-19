@@ -2,7 +2,7 @@
   <div>
     <div class="container">
       <div class="banner">
-        <img src="/src/assets/banner.webp">
+        <img src="../assets/banner.png">
       </div>
       <div class="action-bar">
         <flexbox>
@@ -78,7 +78,8 @@
   img {
     max-width: 100%;
   }
-  .banner img{
+  .banner img {
+    width: 100%;
     border-radius: 10px;
   }
   .action-bar {
